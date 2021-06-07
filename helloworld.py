@@ -1,8 +1,10 @@
-##############################################
-# Program allowing to print "hello world"    #
-#                                            #
-# Edited by Nicolas Bichon on June 2nd 2021  #
-#                                            #
-##############################################
+###################################################
+# Program allowing to print "hello world user"    #
+#                                                 #
+# Edited by Nicolas Bichon on June 3rd 2021       #
+#                                                 #
+###################################################
 
-print("hello world")
+prenom=input("What is your name ?")
+
+print("hello world",prenom)
